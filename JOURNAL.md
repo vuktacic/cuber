@@ -444,7 +444,7 @@ I then had to do a bunch of cable management.
     <img src="journal/20250730_202947.jpg" height="360">
 </p>
 
-So what did I learn from this? I fucking suck at critical thinking. I made holes in the box for each type of wire, when it would have been smarter to make 6 holes for the 6 modules, and route the wires internally. That way I wouldn't have to worry about the mess on the outside, all of the wires to a module would go to the same place, and I could thread wires one by one to avoid mixups. Next time I do a project with similar wire requirements, I'll probably make a pcb, and follow this module.
+So what did I learn from this? I suck at critical thinking. I made holes in the box for each type of wire, when it would have been smarter to make 6 holes for the 6 modules, and route the wires internally. That way I wouldn't have to worry about the mess on the outside, all of the wires to a module would go to the same place, and I could thread wires one by one to avoid mixups. Next time I do a project with similar wire requirements, I'll probably make a pcb, and follow this module.
 
 On another note, I have thought about making a Cuber v2! If I did I would definitely use a PCB for wire distribution and use stronger motors. I'd like to beat the human wr (3.08s).
 
@@ -502,4 +502,5 @@ Spent the day cleaning up the repo, and writing documentation.
 I also created a pretty sick [youtube video](https://www.youtube.com/shorts/K8QNXNZYxWQ).
 
 ### Time today: 6 hours
+
 ### Time total: 122 hours
