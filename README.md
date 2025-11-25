@@ -1,6 +1,6 @@
 <img src="journal/Cuber Logo.png">
 
-# Cuber
+# Cuber - [(Video)](https://www.youtube.com/shorts/K8QNXNZYxWQ)
 Cuber is an automatic rubiks cube robot that can read the state of a 3x3 cube and solve it using servo motors.
 
 Cuber was funded by and built for Hack Club's [Highway](https://highway.hackclub.com) program. You can read my journal [here](./JOURNAL.md). 
@@ -32,4 +32,5 @@ I've spent over 120 hours designing and building Cuber. Read my thoughts [here](
 | PLA Filament              | 250g   | $6.50      |
 |                                |        |            |
 | **Total**                      |        | **$129.99**|
+
 | **Total USD**                  |        | **$94.56** |
