@@ -5,7 +5,7 @@ description: "An automatic Rubik's Cube solver"
 created_at: "2024-05-17"
 ---
 
-### Total Time: 116 hours
+### Total Time: 122 hours
 ---
 
 # May 15th: Started work!
@@ -504,3 +504,4 @@ I also created a pretty sick [youtube video](https://www.youtube.com/shorts/K8QN
 ### Time today: 6 hours
 
 ### Time total: 122 hours
+
